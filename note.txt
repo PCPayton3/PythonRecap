@@ -1,0 +1,13 @@
+January 23, 2023
+Step 1: cloning a repository 
+Step 2: creating a virtual enviroment
+    windows code name: py -3 -m venv .venv
+    macbook: python -3 - m 
+    the period is the name of the virtual enviroment
+Step 3: activate your virtual enviroment
+    for pc: .\.venv\Scripts\activate
+    for mac: .venv/bin/activate
+Step 4: installing your 3rd party libraries
+    pip3 install matplotlib
+
+any file in .gitignore, the files are ignored to the files
